@@ -1,4 +1,4 @@
-- Hi, I’m L ShivaRudra
+- Hi, I’m L Shiva Rudra
 - I’m interested in Robotics
 
 <!---
