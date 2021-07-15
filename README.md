@@ -1,5 +1,5 @@
 - Hi, I’m L Shiva Rudra
-- I’m interested in Robotics
+- I’m passionate about Robotics
 
 <!---
 LShivaRudra/LShivaRudra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
