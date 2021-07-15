@@ -1,4 +1,4 @@
-- Hi, I’m @LShivaRudra
+- Hi, I’m L ShivaRudra
 - I’m interested in Robotics
 
 <!---
