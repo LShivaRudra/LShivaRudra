@@ -1,4 +1,4 @@
-- Hi, I’m L Shiva Rudra
+- Hi, I’m Shiva Rudra
 - I’m passionate about Robotics
 
 <!---
