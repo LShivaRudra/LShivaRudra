@@ -1,7 +1,17 @@
-- Hello, I’m Shiva Rudra, a robotics enthusiast with a keen interest in autonomous systems and perception.
-<!---- I have a strong enthusiasm for Aerial Robotics and Autonomous Navigation, and what captivates me the most is the practical application of algorithms within these domains.--->
+# Shiva Rudra Lolla
 
-<!---
-LShivaRudra/LShivaRudra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Robotics Engineer | 🤖 Perception & Navigation | 💡 SLAM, LIO, Sensor Fusion  
+🌐 [LinkedIn](https://www.linkedin.com/in/shiva-rudra-lolla-11959b209/) • [GitHub](https://github.com/LShivaRudra) • [Twitter](https://twitter.com/ShivaRudraLolla)
+
+---
+
+## 👋 About Me
+
+I'm a robotics engineer with hands-on experience in **Lidar-Inertial Odometry (LIO)**, **sensor fusion**, and **autonomous navigation**.  
+My work spans multiple domains including UAVs, legged robots, and wheeled platforms. I’m especially passionate about **perception** and building systems for **safe, real-time robot navigation**.
+
+---
+
+## 📢 Let's Connect
+
+📫 shivarudralolla@gmail.com  
