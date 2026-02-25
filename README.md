@@ -7,8 +7,9 @@
 
 ## 👋 About Me
 
-I’m currently pursuing my MSc in Mobile Robotics at the University of Bonn, with a focus on 3D scene understanding, and perception for autonomous navigation. I’m interested in designing robust vision-based systems that bridge geometry and learning for real-world robotics.
+I’m currently pursuing my **MSc in Mobile Robotics** at the University of Bonn, with a focus on **3D scene understanding, and perception for autonomous navigation**. I’m interested in designing robust vision-based systems that bridge geometry and learning for real-world robotics.
 
 ## 📢 Let's Connect
 
 📫 shivarudralolla@gmail.com  
+🎓 s22sloll@uni-bonn.de
