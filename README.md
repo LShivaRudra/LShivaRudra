@@ -1,7 +1,7 @@
 # Shiva Rudra Lolla
 
 🔧 MSc Mobile Robotics | 🤖 Robot Vision & 3D Perception | 💡 Multi-View Geometry, State Estimation, Autonomous Systems  
-🌐 [LinkedIn](https://www.linkedin.com/in/shiva-rudra-lolla-11959b209/) • [GitHub](https://github.com/LShivaRudra) • [Twitter](https://twitter.com/ShivaRudraLolla)
+🌐 [LinkedIn](https://www.linkedin.com/in/shivarudralolla/) • [GitHub](https://github.com/LShivaRudra) • [Twitter](https://twitter.com/ShivaRudraLolla)
 
 ---
 
