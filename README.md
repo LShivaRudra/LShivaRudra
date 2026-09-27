@@ -1,15 +1,13 @@
-# Shiva Rudra Lolla
+# Hi, I'm Shiva 👋
 
-🔧 MSc Mobile Robotics | 🤖 Robot Vision & 3D Perception | 💡 Multi-View Geometry, State Estimation, Autonomous Systems  
-🌐 [LinkedIn](https://www.linkedin.com/in/shivarudralolla/) • [GitHub](https://github.com/LShivaRudra) • [Twitter](https://twitter.com/ShivaRudraLolla)
+**Robotics engineer & M.Sc. Mobile Robotics student at the University of Bonn**, working on perception, navigation, and manipulation for real robots.
 
----
+- 🔬 Research Assistant at the [Humanoid Robots Lab](https://www.hrl.uni-bonn.de/), Uni Bonn (Prof. Maren Bennewitz)
+- 🏭 Previously: Robotics Engineer (Navigation) at [AlphaZ](https://alpha-z.ai), autonomous patrolling for quadruped & wheeled robots
+- 🎯 Open to robotics / perception student jobs and thesis opportunities in Germany
 
-## 👋 About Me
+## What I'm working on
+- **Leaf manipulation for plant phenotyping**: geometric ranking of leaf-clipping poses for Mini-PAM II measurements, leaf instance segmentation, and cuRobo end-effector control in Isaac Sim → Unitree B2 + Z1
 
-I’m currently pursuing my **MSc in Mobile Robotics** at the University of Bonn, with a focus on **3D scene understanding, and perception for autonomous navigation**. I’m interested in designing robust vision-based systems that bridge geometry and learning for real-world robotics.
-
-## 📢 Let's Connect
-
-📫 shivarudralolla@gmail.com  
-🎓 s22sloll@uni-bonn.de
+## Contact
+[LinkedIn](https://linkedin.com/in/shivarudralolla) · shivarudralolla@gmail.com
