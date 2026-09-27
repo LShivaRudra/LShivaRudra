@@ -7,4 +7,4 @@
 - 🎯 Open to robotics / perception student jobs and thesis opportunities in Germany
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/shivarudralolla) · shivarudralolla@gmail.com
+🌐 [Portfolio](https://lshivarudra.github.io/) · [LinkedIn](https://linkedin.com/in/shivarudralolla) · shivarudralolla@gmail.com
